@@ -1,7 +1,5 @@
 # SCP-THE-LOST-LAND
-Hallo Das ist ein Webhook Für den SCP:TLL Discord erstellt von Baumi Wo ich in zukunft Updates posten werde
-Ich Hoffe bloß die anderen haben nichts gegen den Webhook :D
-
+Hallo Das ist ein Webhook Für den SCP:TLL Discord erstellt von Baumi wo ich in zukunft update's usw.
 
 1.Liste der SCP's die wir Hinzufügen Wollen:
 
